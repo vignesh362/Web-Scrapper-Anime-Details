@@ -2,6 +2,6 @@
  Anime Details that are being scrapped from multiple websites  
   letterBox  
   IMDB  
-  Rotten Tomatoes
-  MyAnimeList: for getting Anime Details
+  Rotten Tomatoes  
+  MyAnimeList: for getting Anime Details  
   Reddit- for Comments
