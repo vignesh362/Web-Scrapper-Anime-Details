@@ -1,5 +1,5 @@
 # Web Scrapper Anime Details
- Anime Details that is being scrapped from multiple websites
+ Anime Details that is being scrapped from multiple websites/n
   letterBox
   IMDB
   Rotten Tomatoes
